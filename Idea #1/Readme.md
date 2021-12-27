@@ -3,7 +3,7 @@
 ## *Red social para indumentaria de moda*
 --- 
 #### Descripción del proyecto: 
-Es una nueva donde se van publicando diferentes estilos de indumentaria y los usuarios pueden votar si les gusta o no el diseño.
+Es una nueva red social donde se van publicando diferentes estilos de indumentaria y los usuarios pueden votar si les gusta o no el diseño.
 #### Objetivo:
 Conocer el comportamiento de elección de los usuarios para la creación de futuros diseños de indumentaria de la compañía.
 La información es valiosa por lo que debe ser fácil de conseguir y segura en su persistencia en la plataforma.
@@ -22,3 +22,22 @@ La información es valiosa por lo que debe ser fácil de conseguir y segura en s
 - Registro
 - Feed de posteos
 - Panel de gestión de posteos (sólo con acceso de administrador)
+
+#### Tecnologías elegidas:
+- Front-End:
+  -React JS
+  -TailWinds
+- Back-End:
+  -Node JS
+  
+
+#### Diseño :
+- Movil
+  - Login / Registro
+![](./UX-UI/imagenes/mobile-login.jpg)
+- Desktop
+  - Login
+  - Registro
+  - Feed de posteos
+  - Panel de gestión de posteos
+
